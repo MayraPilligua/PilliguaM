@@ -2,11 +2,11 @@
 using namespace std;
 int main()
 {
-	float A, B, C;
-cout<<"INGRESE 2 NUMERO A B:";
-cin>>A>>B;
-C=A+B; 
-cout<<"EL RESULTADO ES:";
-cin<<C;
+	float x, y, z;
+cout<<"INGRESE 2 numeros separados de espacio  x y:";
+cin>>x>>y;
+z=x+y; 
+cout<<"EL RESULTxDO ES:";
+cout>>z>>endl; 
 return 0;
 }
