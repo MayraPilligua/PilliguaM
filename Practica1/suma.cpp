@@ -3,8 +3,10 @@ using namespace std;
 int main()
 {
 	float A, B, C;
-	cin>>A>>B;
-	C=A+B;
-	cout<<C;
-	return 0;
-}	
+cout<<"INGRESE 2 NUMERO A B:";
+cin>>A>>B;
+C=A+B; 
+cout<<"EL RESULTADO ES:";
+cin<<C;
+return 0;
+}
